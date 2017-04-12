@@ -2,6 +2,8 @@
 
 ## General
 * [ ] Install OS X updates
+* [ ] Install homebrew  
+``/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``
 * [ ] Install Google Chrome  
 ``brew cask install google-chrome``
 * [ ] Install [usgerman](https://github.com/janv/usgerman) keyboard layout
@@ -20,8 +22,6 @@
 ``chsh -s /bin/zsh``
   * [ ] Install oh-my-zsh  
   ``sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"``
-* [ ] Install homebrew  
-``/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``
 * [ ] Update git to latest version
   * [ ] add ~/.gitconfig
   * [ ] add ~/.gitignore
